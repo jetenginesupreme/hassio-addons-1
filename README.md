@@ -7,5 +7,5 @@ Repository for hass.io addons.
 
 ## [Mopidy](https://github.com/jetenginesupreme/hassio-addons-1/tree/master/mopidy) [![](https://images.microbadger.com/badges/version/bestlibre/armhf-mopidy.svg)](https://microbadger.com/images/bestlibre/armhf-mopidy "Get your own version badge on microbadger.com")
 
-## [Mopidy-Cast](https://github.com/jetenginesupreme/hassio-addons-1/tree/master/mopidy_cast) [![](https://images.microbadger.com/badges/version/bestlibre/armhf-mopidy.svg)](https://microbadger.com/images/bestlibre/armhf-mopidy "Get your own version badge on microbadger.com")
+## [Mopidy-Cast](https://github.com/jetenginesupreme/hassio-addons-1/tree/master/mopidy-jes) [![](https://images.microbadger.com/badges/version/bestlibre/armhf-mopidy.svg)](https://microbadger.com/images/bestlibre/armhf-mopidy "Get your own version badge on microbadger.com")
 
